@@ -1,0 +1,14 @@
+/home/miral/csharp/bin/Debug/net9.0/csharp
+/home/miral/csharp/bin/Debug/net9.0/csharp.deps.json
+/home/miral/csharp/bin/Debug/net9.0/csharp.runtimeconfig.json
+/home/miral/csharp/bin/Debug/net9.0/csharp.dll
+/home/miral/csharp/bin/Debug/net9.0/csharp.pdb
+/home/miral/csharp/obj/Debug/net9.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/miral/csharp/obj/Debug/net9.0/csharp.AssemblyInfoInputs.cache
+/home/miral/csharp/obj/Debug/net9.0/csharp.AssemblyInfo.cs
+/home/miral/csharp/obj/Debug/net9.0/csharp.csproj.CoreCompileInputs.cache
+/home/miral/csharp/obj/Debug/net9.0/csharp.dll
+/home/miral/csharp/obj/Debug/net9.0/refint/csharp.dll
+/home/miral/csharp/obj/Debug/net9.0/csharp.pdb
+/home/miral/csharp/obj/Debug/net9.0/csharp.genruntimeconfig.cache
+/home/miral/csharp/obj/Debug/net9.0/ref/csharp.dll

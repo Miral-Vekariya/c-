@@ -1,0 +1,14 @@
+/home/miral/chas/bin/Debug/net9.0/chas
+/home/miral/chas/bin/Debug/net9.0/chas.deps.json
+/home/miral/chas/bin/Debug/net9.0/chas.runtimeconfig.json
+/home/miral/chas/bin/Debug/net9.0/chas.dll
+/home/miral/chas/bin/Debug/net9.0/chas.pdb
+/home/miral/chas/obj/Debug/net9.0/chas.GeneratedMSBuildEditorConfig.editorconfig
+/home/miral/chas/obj/Debug/net9.0/chas.AssemblyInfoInputs.cache
+/home/miral/chas/obj/Debug/net9.0/chas.AssemblyInfo.cs
+/home/miral/chas/obj/Debug/net9.0/chas.csproj.CoreCompileInputs.cache
+/home/miral/chas/obj/Debug/net9.0/chas.dll
+/home/miral/chas/obj/Debug/net9.0/refint/chas.dll
+/home/miral/chas/obj/Debug/net9.0/chas.pdb
+/home/miral/chas/obj/Debug/net9.0/chas.genruntimeconfig.cache
+/home/miral/chas/obj/Debug/net9.0/ref/chas.dll
